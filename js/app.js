@@ -98,7 +98,7 @@ function checkLoss() {
       "I was so bored, I wrote my will. You're not in it!(° ͜ʖ͡°)╭∩╮\n BYEBYE!";
     playAgainBtn.textContent = "Buy PS5!";
     playAgainMsg.textContent = "I'll think about staying if you buy me a PS5!";
-    img.src = "./assets/spritehungry.png";
+    img.src = "./assets/spritebored.png";
     stopGameAll();
     setVisible();
   }
